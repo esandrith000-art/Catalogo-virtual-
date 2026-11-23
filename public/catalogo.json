@@ -1,0 +1,110 @@
+
+{
+  "tienda": "Mi catalogo virtual",
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Portatil Lenovo",
+      "categoria": "Tecnologia",
+      "precio": 2500000,
+      "disponible": true,
+      "dimensiones": {
+        "alto": 2,
+        "ancho": 36,
+        "profundidad": 25,
+        "unidad": "cm"
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "Mouse Logitech",
+      "categoria": "Tecnologia",
+      "precio": 80000,
+      "disponible": true,
+      "dimensiones": {
+        "alto": 4,
+        "ancho": 7,
+        "profundidad": 11,
+        "unidad": "cm"
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "Teclado mecanico",
+      "categoria": "Tecnologia",
+      "precio": 150000,
+      "disponible": false,
+      "dimensiones": {
+        "alto": 3,
+        "ancho": 44,
+        "profundidad": 14,
+        "unidad": "cm"
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "Audifonos",
+      "categoria": "Tecnologia",
+      "precio": 120000,
+      "disponible": true,
+      "dimensiones": {
+        "alto": 18,
+        "ancho": 16,
+        "profundidad": 8,
+        "unidad": "cm"
+      }
+    },
+    {
+      "id": 5,
+      "nombre": "Silla de escritorio",
+      "categoria": "Muebles",
+      "precio": 450000,
+      "disponible": true,
+      "dimensiones": {
+        "alto": 90,
+        "ancho": 60,
+        "profundidad": 60,
+        "unidad": "cm"
+      }
+    },
+    {
+      "id": 6,
+      "nombre": "Escritorio",
+      "categoria": "Muebles",
+      "precio": 380000,
+      "disponible": false,
+      "dimensiones": {
+        "alto": 75,
+        "ancho": 120,
+        "profundidad": 60,
+        "unidad": "cm"
+      }
+    },
+    {
+      "id": 7,
+      "nombre": "Mochila",
+      "categoria": "Accesorios",
+      "precio": 90000,
+      "disponible": true,
+      "dimensiones": {
+        "alto": 45,
+        "ancho": 30,
+        "profundidad": 18,
+        "unidad": "cm"
+      }
+    },
+    {
+      "id": 8,
+      "nombre": "Lampara de escritorio",
+      "categoria": "Accesorios",
+      "precio": 65000,
+      "disponible": true,
+      "dimensiones": {
+        "alto": 35,
+        "ancho": 15,
+        "profundidad": 15,
+        "unidad": "cm"
+      }
+    }
+  ]
+}
